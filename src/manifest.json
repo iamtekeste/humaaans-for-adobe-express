@@ -1,0 +1,21 @@
+{
+    "testId": "0d5a846d-3ac8-4b26-982d-f189c7fde586",
+    "name": "Humaaans For Adobe Express",
+    "version": "1.0.0",
+    "manifestVersion": 2,
+    "requirements": {
+        "apps": [
+            {
+                "name": "Express",
+                "apiVersion": 1
+            }
+        ]
+    },
+    "entryPoints": [
+        {
+            "type": "panel",
+            "id": "panel1",
+            "main": "index.html"
+        }
+    ]
+}
